@@ -8,7 +8,7 @@
     "migrate:production": "tsx scripts/migrate-production.ts && pnpm db:migrate",
     "postinstall": "node scripts/patch-core.mjs",
     "dev": "agent-native dev",
-    "build": "agent-native build",
+    "build": "react-router build",
     "start": "agent-native start",
     "typecheck": "agent-native typecheck",
     "action": "agent-native action",
