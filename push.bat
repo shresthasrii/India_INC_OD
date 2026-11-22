@@ -4,7 +4,7 @@ color 0E
 
 echo ===================================================================
 echo   PUSHING ODISHA TO GITHUB
-echo   Repository: https://github.com/shresthasrii/India_INC_OD.git
+echo   Repository: https://shresthasrii@github.com/shresthasrii/India_INC_OD.git
 echo ===================================================================
 echo.
 
